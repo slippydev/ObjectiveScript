@@ -15,7 +15,7 @@
 		2899E5220DE3E06400AC0155 /* ObjectiveScriptViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* ObjectiveScriptViewController.xib */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		28D7ACF80DDB3853001CB0EB /* ObjectiveScriptViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* ObjectiveScriptViewController.m */; };
-		5B6F499112F5CD480059A06A /* IMG_0164.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 5B6F499012F5CD480059A06A /* IMG_0164.JPG */; };
+		5B01989C12F5E56600C714D4 /* Macrons.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5B01989B12F5E56600C714D4 /* Macrons.jpg */; };
 		5B6F499412F5CDB10059A06A /* SpecialView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B6F499312F5CDB10059A06A /* SpecialView.m */; };
 /* End PBXBuildFile section */
 
@@ -32,7 +32,7 @@
 		28D7ACF70DDB3853001CB0EB /* ObjectiveScriptViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ObjectiveScriptViewController.m; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* ObjectiveScript_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ObjectiveScript_Prefix.pch; sourceTree = "<group>"; };
-		5B6F499012F5CD480059A06A /* IMG_0164.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_0164.JPG; path = "../../../Pictures/iPhoto Library/Originals/2009/2009-11-19/IMG_0164.JPG"; sourceTree = SOURCE_ROOT; };
+		5B01989B12F5E56600C714D4 /* Macrons.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Macrons.jpg; sourceTree = "<group>"; };
 		5B6F499212F5CDB10059A06A /* SpecialView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpecialView.h; sourceTree = "<group>"; };
 		5B6F499312F5CDB10059A06A /* SpecialView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpecialView.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* ObjectiveScript-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "ObjectiveScript-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
@@ -97,7 +97,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				5B6F499012F5CD480059A06A /* IMG_0164.JPG */,
+				5B01989B12F5E56600C714D4 /* Macrons.jpg */,
 				2899E5210DE3E06400AC0155 /* ObjectiveScriptViewController.xib */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* ObjectiveScript-Info.plist */,
@@ -166,7 +166,7 @@
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				2899E5220DE3E06400AC0155 /* ObjectiveScriptViewController.xib in Resources */,
-				5B6F499112F5CD480059A06A /* IMG_0164.JPG in Resources */,
+				5B01989C12F5E56600C714D4 /* Macrons.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
